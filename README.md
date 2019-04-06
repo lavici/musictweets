@@ -1,4 +1,4 @@
-# musictweets
+# Music Tweets
 A lil hub for Audio Web API hacks 
 
 ## Tentative Stack:
